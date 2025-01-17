@@ -33,3 +33,21 @@ Canva：
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via CANVA e DALL- E 
 
+## 👨‍💻 Expert
+
+<p>
+    <p>&nbsp&nbsp&nbspElvira Miranda<br>
+    &nbsp&nbsp&nbsp
+    <a 
+        href="https://github.com/elviraafmiranda">
+        GitHub
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="www.linkedin.com/in/elviraafmiranda">
+        LinkedIn
+    </a>
+    &nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
